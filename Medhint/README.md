@@ -6,6 +6,7 @@ MedHint is an online platform built using MEAN Stack to help users provide all t
 
 Install the Node Package Manager,Angular,MongoDB and Nodemon
 ```bash
+$ sudo apt install nodejs
 $ npm install -g @angular/cli
 $ sudo apt install -y mongodb
 $ npm install -g nodemon
